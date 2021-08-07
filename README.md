@@ -10,6 +10,8 @@ Android Studio
 
 Android's Emulator
 
+Visual Studio Code
+
 Node JS (Metro)
 
 JDK (Java)
@@ -47,6 +49,7 @@ MongoDB	3.11.4
 
 JDK 14.0.2.0
 
+Visual Studio Code 1.59.0
 
 
 #Modules Versions
